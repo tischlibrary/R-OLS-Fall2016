@@ -31,7 +31,7 @@ widget      : mathjax
 
 ## Preliminaries
 
-- tinyurl.com/tischR_OLS
+- tinyurl.com/tischR-OLS
 
 - Open RStudio:  Windows -> Data & Statistical Applications -> RStudio
 

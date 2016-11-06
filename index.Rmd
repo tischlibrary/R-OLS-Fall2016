@@ -31,7 +31,7 @@ widget      : mathjax
 
 ## Preliminaries
 
-- tinyurl.com/tischR_OLS
+- tinyurl.com/tischR-OLS
 
 - Open RStudio:  Windows -> Data & Statistical Applications -> RStudio
 
@@ -120,6 +120,7 @@ widget      : mathjax
 ## Linear Regression 
 
 ```
+crime <- read.csv(crime.csv)
 mod <- lm(tc2009 ~ low, data = crime)
 mod
 ```
